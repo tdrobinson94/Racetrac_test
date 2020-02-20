@@ -9,8 +9,7 @@ html {
   width: 100%;
   height: 100%;
   margin: auto;
-  font-family: 'Montserrat', sans-serif;
-  border-radius: 25px; }
+  font-family: 'Montserrat', sans-serif; }
 
 .bkg-wht {
   background-color: #fff; }
@@ -31,43 +30,54 @@ html {
   align-items: center;
   padding-top: 10px;
   background-color: #f5f7f9; }
-  .progress-bar div {
-    display: block;
+  .progress-bar ul {
+    list-style: none;
     text-align: center;
-    margin: 20px 35px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0;
+    width: 225px;
     position: relative; }
-    .progress-bar div:first-child:before {
+  .progress-bar li {
+    display: block;
+    text-align: center; }
+    .progress-bar li:nth-child(2) {
       border-bottom: 1px solid #d1c6d3;
       content: "";
       position: absolute;
       top: 10px;
-      left: 41px;
-      width: 95px; }
-    .progress-bar div span:first-child {
+      left: 40px;
+      width: 125px; }
+    .progress-bar li:first-child, .progress-bar li:last-child {
+      z-index: 99999; }
+    .progress-bar li span:first-child {
       font-family: Arial, Helvetica, sans-serif; }
-    .progress-bar div.progress_2 span:first-child {
+    .progress-bar li.progress_2 span:first-child {
       transition: ease-in-out all .2s;
       border: 1px solid #9097a0;
       background-color: #fff;
       color: #9097a0; }
-    .progress-bar div.progress_1 span:first-child {
+    .progress-bar li.progress_1 span:first-child {
       transition: ease-in-out all .2s;
       background-color: #59315f;
+      border: 1px solid #59315f;
       color: #fff; }
-    .progress-bar div.on span:first-child {
+    .progress-bar li.on span:first-child {
       transition: ease-in-out all .2s;
       background-color: #59315f;
+      border: 1px solid #59315f;
       color: #fff; }
-    .progress-bar div.success span:first-child {
+    .progress-bar li.success span:first-child {
       transition: ease-in-out all .2s;
       background-color: #fff;
       color: green;
       border: 1px solid green; }
-    .progress-bar div.success .checkmark {
-      padding: 11px 13px; }
+    .progress-bar li.success .checkmark {
+      padding: 11px 13px;
+      font-size: 15px; }
   .progress-bar span:first-child {
     border-radius: 100%;
-    border: 1px solid #9097a0;
     padding: 10px 15px;
     font-weight: bold; }
   .progress-bar span:last-child {

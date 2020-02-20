@@ -14,7 +14,6 @@ html {
     height: 100%;
     margin: auto;
     font-family: 'Montserrat', sans-serif;
-    border-radius: 25px;
 }
 
 // Backgrounds
@@ -47,22 +46,33 @@ html {
   padding-top: 10px;
   background-color: #f5f7f9;
 
-  div {
+  ul {
+    list-style: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0;
+    width: 225px;
+    position: relative;
+  }
+
+  li {
     display: block;
     text-align: center;
-    margin: 20px 35px;
-    position: relative;
 
     //Check later to add separator between 1 and 2
-    &:first-child {
-      &:before {
+    &:nth-child(2) {
         border-bottom: 1px solid #d1c6d3;
         content: "";
         position: absolute;
         top: 10px;
-        left: 41px;
-        width: 95px;
-      }
+        left: 40px;
+        width: 125px;
+    }
+
+    &:first-child, &:last-child {
+      z-index: 99999;
     }
 
     & span:first-child {
@@ -84,6 +94,7 @@ html {
       span:first-child {
         transition: ease-in-out all .2s;
         background-color: #59315f;
+        border: 1px solid #59315f;
         color: #fff;
       }
 
@@ -93,6 +104,7 @@ html {
       span:first-child {
         transition: ease-in-out all .2s;
         background-color: #59315f;
+        border: 1px solid #59315f;
         color: #fff;
       }
     }
@@ -107,6 +119,7 @@ html {
 
       .checkmark {
         padding: 11px 13px;
+        font-size: 15px;
       }
     }
   }
@@ -114,7 +127,6 @@ html {
   span {
     &:first-child {
       border-radius: 100%;
-      border: 1px solid #9097a0;
       padding: 10px 15px;
       font-weight: bold;
     }

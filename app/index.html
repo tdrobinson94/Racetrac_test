@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>RaceTrac Test Porject</title>
+
+        <!-- Core CSS file -->
+        <link rel="stylesheet" href="css/main.css">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
+
+        
+    </head>
+
+    <body>
+
+        <div class="container bkg-wht">
+
+            <div class="header">
+
+                <h1>Buy an Icon</h1>
+
+            </div>
+            
+            <section class="progress-bar">
+
+                <div class="progress_1">
+
+                    <span>1</span>
+                    <span>Icon</span>
+
+                </div>
+
+                <div class="progress_2">
+
+                    <span>2</span>
+                    <span>Payment</span>
+
+                </div>
+
+            </section>
+
+            <section class="main-section form_1">
+
+                <h2>Select an icon</h2>
+
+                <form class="icon-form">
+                    <input type="checkbox" id="checkbox1" />
+                    <label for="checkbox1" class="item_1"><img src="images/Clipboard_Calculator.svg" alt="" /></label>
+
+                    <input type="checkbox" id="checkbox2" />
+                    <label for="checkbox2" class="item_2"><img src="images/Process.svg" alt="" /></label>
+
+                    <input type="checkbox" id="checkbox3" />
+                    <label for="checkbox3" class="item_3"><img src="images/Blue_Prints.svg" alt="" /></label>
+
+                    <input type="checkbox" id="checkbox4" />
+                    <label for="checkbox4" class="item_4"><img src="images/Calendar_Clock.svg" alt="" /></label>
+                </form>
+
+                <button class="next">Next</button>
+
+            </section>
+
+            <section class="main-section form_2">
+
+                <h2>Payment Information</h2>
+                <form class="payment-form">
+                    <label>Name on Card</label>
+                    <input type="text" placeholder="Name on Card" required><br />
+                    <label>Card Number</label>
+                    <input type="text" class="card-number" placeholder="Card Number" required><br />
+
+                    <div class="side-by-side">
+                        <div>
+                            <label>Expiration Date</label>
+                            <input type="text" class="exp-date" placeholder="Expiration Date" required>
+                        </div>
+                        <div>
+                            <label>CVV</label>
+                            <input type="password" maxlength="3" placeholder="CVV" required>
+                        </div>
+                    </div>
+
+                </form>
+
+                
+                <button class="submit">Submit</button>
+                <button class="back">Back</button>
+            </section>
+
+            <section class="main-section form_3">
+                <h2>Success!</h2>
+                <p>Form has been Submitted successfully.</p>
+
+                <button class="return">Return</button>
+            </section>
+
+
+        </div>
+
+        <script src="js/bundle.js"></script>
+    </body>
+
+</html>

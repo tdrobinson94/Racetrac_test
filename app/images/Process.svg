@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="108px" viewBox="0 0 109 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>1FA55A1C-57E1-4226-BBEA-AC37EE7A66A1</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-7.9%" y="-8.0%" width="115.8%" height="116.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.282352941   0 0 0 0 0.290196078   0 0 0 0 0.309803922  0 0 0 0.499292346 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Careers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-Careers-6---Corporate---Department-Icons" transform="translate(-1070.000000, -203.000000)">
+            <g id="Group-7" filter="url(#filter-1)" transform="translate(1074.000000, 207.000000)">
+                <path d="M30.6760561,17.8860285 C20.0519298,24.623797 13,36.4883653 13,50" id="Path" stroke="#FFFFFF" stroke-width="5"></path>
+                <path d="M13.6540911,35.4845994 C15.3741503,35.7313859 17.0068242,36.2276708 18.5089492,36.9329065 L10.642334,50.3061523 C10.642334,45.0720276 11.7105403,40.0713553 13.654092,35.4845971 Z" id="Combined-Shape" fill-opacity="0.199558424" fill="#484A4F" transform="translate(14.575642, 42.895375) rotate(-4.000000) translate(-14.575642, -42.895375) "></path>
+                <path d="M18.7671015,70.1351977 C25.4836102,80.864467 37.4085086,88 51,88" id="Path" stroke="#FFFFFF" stroke-width="5"></path>
+                <path d="M42.3289573,78.4038016 C44.0490165,78.6505881 45.6816904,79.146873 47.1838153,79.8521087 L39.3172001,93.2253546 C39.3172001,87.9912298 40.3854065,82.9905575 42.3289582,78.4037994 Z" id="Combined-Shape" fill-opacity="0.199558424" fill="#484A4F" transform="translate(43.250508, 85.814577) rotate(-97.000000) translate(-43.250508, -85.814577) "></path>
+                <path d="M70.6654817,82.5222171 C81.6557081,75.8624011 89,63.7888762 89,50" id="Path" stroke="#FFFFFF" stroke-width="5"></path>
+                <path d="M85.6775286,49.8037131 C87.3975878,50.0504997 89.0302617,50.5467846 90.5323867,51.2520203 L82.6657715,64.6252661 C82.6657715,59.3911414 83.7339778,54.3904691 85.6775295,49.8037109 Z" id="Combined-Shape" fill-opacity="0.199558424" fill="#484A4F" transform="translate(86.599079, 57.214489) rotate(-190.000000) translate(-86.599079, -57.214489) "></path>
+                <path d="M83.4691137,30.2471508 C76.7983465,19.3053867 64.7523055,12 51,12" id="Path" stroke="#FFFFFF" stroke-width="5"></path>
+                <path d="M56.5446382,6.42709997 C58.2646974,6.67388647 59.8973713,7.1701714 61.3994963,7.87540708 L53.5328811,21.2486529 C53.5328811,16.0145282 54.6010874,11.0138559 56.5446391,6.42709775 Z" id="Combined-Shape" fill-opacity="0.199558424" fill="#484A4F" transform="translate(57.466189, 13.837875) rotate(-278.000000) translate(-57.466189, -13.837875) "></path>
+                <circle id="Oval" fill="#E2231A" cx="50.5" cy="12.5" r="12.5"></circle>
+                <circle id="Oval-Copy-40" fill="#40C4F3" cx="50.5" cy="87.5" r="12.5"></circle>
+                <circle id="Oval-Copy-42" fill="#009D4E" transform="translate(13.000000, 50.000000) rotate(-90.000000) translate(-13.000000, -50.000000) " cx="13" cy="50" r="12.5"></circle>
+                <circle id="Oval-Copy-40" fill="#FDC01A" transform="translate(88.000000, 50.000000) rotate(-90.000000) translate(-88.000000, -50.000000) " cx="88" cy="50" r="12.5"></circle>
+                <circle id="Oval-Copy-27" fill="#E2231A" cx="50.5" cy="12.5" r="12.5"></circle>
+                <circle id="Oval-Copy-41" fill="#FDC01A" transform="translate(88.000000, 50.000000) rotate(-90.000000) translate(-88.000000, -50.000000) " cx="88" cy="50" r="12.5"></circle>
+                <polygon id="Triangle" fill="#FFFFFF" transform="translate(83.975953, 31.750000) rotate(-210.000000) translate(-83.975953, -31.750000) " points="83.9759526 26.75 90.4759526 36.75 77.4759526 36.75"></polygon>
+                <polygon id="Triangle-Copy-3" fill="#FFFFFF" transform="translate(18.024047, 69.250000) rotate(-30.000000) translate(-18.024047, -69.250000) " points="18.0240474 64.25 24.5240474 74.25 11.5240474 74.25"></polygon>
+                <polygon id="Triangle-Copy-5" fill="#FFFFFF" transform="translate(69.250000, 82.975953) rotate(-120.000000) translate(-69.250000, -82.975953) " points="69.25 77.9759526 75.75 87.9759526 62.75 87.9759526"></polygon>
+                <polygon id="Triangle-Copy-4" fill="#FFFFFF" transform="translate(32.616025, 17.524047) rotate(-300.000000) translate(-32.616025, -17.524047) " points="32.6160254 12.5240474 39.1160254 22.5240474 26.1160254 22.5240474"></polygon>
+                <path d="M50.7467116,79 C47.8746166,79 45.3280852,80.1805684 43.7467116,82 M42.4934233,85 C42.1734207,85.9421801 42,86.951038 42,88" id="Shape" stroke="#FFFFFF" stroke-width="2" opacity="0.449614025" stroke-linecap="round"></path>
+                <path d="M50.7467116,5 C47.8746166,5 45.3280852,6.18056838 43.7467116,8 M42.4934233,11 C42.1734207,11.9421801 42,12.951038 42,14" id="Shape-Copy-2" stroke="#FFFFFF" stroke-width="2" opacity="0.449614025" stroke-linecap="round"></path>
+                <path d="M13.7467116,42 C10.8746166,42 8.32808521,43.1805684 6.74671163,45 M5.49342325,48 C5.17342073,48.9421801 5,49.951038 5,51" id="Shape-Copy" stroke="#FFFFFF" stroke-width="2" opacity="0.449614025" stroke-linecap="round"></path>
+                <path d="M88.7467116,42 C85.8746166,42 83.3280852,43.1805684 81.7467116,45 M80.4934233,48 C80.1734207,48.9421801 80,49.951038 80,51" id="Shape-Copy-3" stroke="#FFFFFF" stroke-width="2" opacity="0.449614025" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

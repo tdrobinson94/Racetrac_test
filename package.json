@@ -1,0 +1,31 @@
+{
+  "name": "racetrac-project",
+  "version": "1.0.0",
+  "description": "This is the case study for race trac",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Terry Robinson",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "babelify": "^10.0.0",
+    "browser-sync": "^2.26.7",
+    "browserify": "^16.5.0",
+    "chalk": "^3.0.0",
+    "gulp": "^4.0.2",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-surge": "^0.1.3",
+    "gulp-uglifycss": "^1.1.0",
+    "sass": "^1.25.0",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "cleave.js": "^1.5.3",
+    "jquery": "^3.4.1"
+  }
+}

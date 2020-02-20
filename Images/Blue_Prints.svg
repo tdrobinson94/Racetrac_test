@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="75px" viewBox="0 0 81 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>118538DC-C11C-406A-94B2-88AAFD5E7553</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-11.0%" y="-11.9%" width="121.9%" height="123.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.282352941   0 0 0 0 0.290196078   0 0 0 0 0.309803922  0 0 0 0.503283514 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="24.7395833%" y1="50%" x2="-36.3959418%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#E4E5E8" offset="0%"></stop>
+            <stop stop-color="#484A4F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Careers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-Careers-6---Corporate---Department-Icons" transform="translate(-600.000000, -220.000000)">
+            <g id="Group-5" filter="url(#filter-1)" transform="translate(604.000000, 224.000000)">
+                <path d="M0,10 L71,10 C72.1045695,10 73,10.8954305 73,12 L73,65 C73,66.1045695 72.1045695,67 71,67 L6,67 C2.6862915,67 4.05812251e-16,64.3137085 0,61 L0,10 Z" id="Rectangle" fill="#40C4F3"></path>
+                <path d="M12.9345703,12.5180664 L69.4863281,12.5180664 C70.0386129,12.5180664 70.4863281,12.9657817 70.4863281,13.5180664 L70.4863281,63.5698242 C70.4863281,64.122109 70.0386129,64.5698242 69.4863281,64.5698242 L5.80029297,64.5698242 C2.48974609,63.7290039 0.834472656,61.5703125 0.834472656,58.09375" id="Path-36" stroke="#FFFFFF"></path>
+                <path d="M12.5,32.5 L12.5,47.5 L53.5,47.5 L53.5,34.0827637 L53.5492616,33.86635 L54.205289,32.5 L12.5,32.5 Z" id="Rectangle" stroke="#FFFFFF"></path>
+                <rect id="Rectangle" fill="#FFFFFF" x="18" y="52" width="40" height="1"></rect>
+                <polygon id="Triangle" fill="#FFFFFF" points="65.5 27 67 30 64 30"></polygon>
+                <polygon id="Triangle-Copy" fill="#FFFFFF" transform="translate(65.500000, 44.500000) rotate(-180.000000) translate(-65.500000, -44.500000) " points="65.5 43 67 46 64 46"></polygon>
+                <polygon id="Triangle-Copy-2" fill="#FFFFFF" transform="translate(57.500000, 52.500000) rotate(-270.000000) translate(-57.500000, -52.500000) " points="57.5 51 59 54 56 54"></polygon>
+                <rect id="Rectangle-Copy-44" fill="#FFFFFF" x="63" y="25" width="5" height="1"></rect>
+                <rect id="Rectangle-Copy-45" fill="#FFFFFF" x="63" y="47" width="5" height="1"></rect>
+                <rect id="Rectangle-Copy-43" fill="#FFFFFF" transform="translate(60.500000, 52.500000) rotate(-270.000000) translate(-60.500000, -52.500000) " x="58" y="52" width="5" height="1"></rect>
+                <rect id="Rectangle-Copy-46" fill="#FFFFFF" transform="translate(65.500000, 36.500000) rotate(-270.000000) translate(-65.500000, -36.500000) " x="57" y="36" width="17" height="1"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" x="27" y="33" width="27" height="1"></rect>
+                <rect id="Rectangle-Copy-31" stroke="#FFFFFF" x="14.5" y="25.5" width="16" height="3"></rect>
+                <rect id="Rectangle-Copy-32" stroke="#FFFFFF" fill="#40C4F3" transform="translate(25.000000, 38.000000) rotate(-270.000000) translate(-25.000000, -38.000000) " x="15.5" y="36.5" width="19" height="3"></rect>
+                <rect id="Rectangle-Copy-37" stroke="#FFFFFF" fill="#40C4F3" transform="translate(48.500000, 44.000000) rotate(-270.000000) translate(-48.500000, -44.000000) " x="45" y="43" width="7" height="2"></rect>
+                <rect id="Rectangle-Copy-38" stroke="#FFFFFF" fill="#40C4F3" transform="translate(58.500000, 44.000000) rotate(-270.000000) translate(-58.500000, -44.000000) " x="55" y="43" width="7" height="2"></rect>
+                <rect id="Rectangle-Copy-34" stroke="#FFFFFF" fill="#40C4F3" transform="translate(21.500000, 36.500000) rotate(-270.000000) translate(-21.500000, -36.500000) " x="20.5" y="31.5" width="2" height="10"></rect>
+                <rect id="Rectangle-Copy-36" stroke="#FFFFFF" fill="#40C4F3" transform="translate(53.500000, 40.000000) rotate(-270.000000) translate(-53.500000, -40.000000) " x="52" y="33" width="3" height="14"></rect>
+                <rect id="Rectangle-Copy-35" stroke="#FFFFFF" fill="#40C4F3" transform="translate(37.000000, 41.500000) rotate(-270.000000) translate(-37.000000, -41.500000) " x="34" y="34" width="6" height="15"></rect>
+                <rect id="Rectangle-Copy-39" stroke="#FFFFFF" fill="#40C4F3" transform="translate(32.000000, 41.500000) rotate(-270.000000) translate(-32.000000, -41.500000) " x="29" y="39" width="6" height="5"></rect>
+                <rect id="Rectangle-Copy-40" stroke="#FFFFFF" fill="#40C4F3" transform="translate(37.000000, 41.500000) rotate(-270.000000) translate(-37.000000, -41.500000) " x="34" y="39" width="6" height="5"></rect>
+                <rect id="Rectangle-Copy-41" stroke="#FFFFFF" fill="#40C4F3" transform="translate(37.000000, 42.500000) rotate(-270.000000) translate(-37.000000, -42.500000) " x="37" y="36" width="1" height="13"></rect>
+                <rect id="Rectangle-Copy-42" stroke="#FFFFFF" fill="#40C4F3" x="19.5" y="29.5" width="1" height="2"></rect>
+                <rect id="Rectangle-Copy-33" stroke="#FFFFFF" fill="#40C4F3" transform="translate(25.000000, 46.000000) rotate(-270.000000) translate(-25.000000, -46.000000) " x="23.5" y="44.5" width="3" height="3"></rect>
+                <path d="M0,10 L13,10 C14.1045695,10 15,10.8954305 15,12 L15,67 L6,67 C2.6862915,67 1.29399067e-15,64.3137085 8.8817842e-16,61 L0,10 Z" id="Rectangle-Copy-30" fill-opacity="0.198567708" fill="#484A4F"></path>
+                <path d="M16,56 L5.5,56 C2.46243388,56 0,58.4624339 0,61.5 L0,6 C-4.05812251e-16,2.6862915 2.6862915,1.4968968e-15 6,8.8817842e-16 L16,-1.77635684e-15 C17.1045695,-1.97926296e-15 18,0.8954305 18,2 L18,54 C18,55.1045695 17.1045695,56 16,56 Z" id="Path-Copy" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

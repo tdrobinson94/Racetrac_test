@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="80px" viewBox="0 0 69 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>1D42EA07-2D96-4DF4-8AA5-9AB6306AE997</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-13.1%" y="-11.1%" width="126.2%" height="122.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.282352941   0 0 0 0 0.290196078   0 0 0 0 0.309803922  0 0 0 0.495244565 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="133.911133%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D8D8D8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="31.1035156%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#C4C7CC" offset="0%"></stop>
+            <stop stop-color="#8B929C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Careers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-Careers-6---Corporate---Department-Icons" transform="translate(-121.000000, -217.000000)">
+            <g id="Group-3" filter="url(#filter-1)" transform="translate(125.000000, 221.000000)">
+                <rect id="Rectangle" fill="#8B572A" x="0" y="5" width="46" height="60" rx="3"></rect>
+                <rect id="Rectangle" fill="url(#linearGradient-2)" x="4" y="9" width="38" height="52" rx="1"></rect>
+                <rect id="Rectangle" fill="#484A4F" x="9" y="30" width="28" height="1"></rect>
+                <circle id="Oval" fill="#E2231A" cx="18" cy="45" r="8"></circle>
+                <path d="M24.6534278,49.4435741 C24.252992,50.0419632 23.7739736,50.5833178 23.231135,51.0528753 L17.9831543,45.0296631 L24.6534278,49.4435741 Z" id="Combined-Shape" fill="#FDC01A"></path>
+                <path d="M26,44.9799805 C25.9999918,44.9866517 26,44.9933249 26,45 C26,46.6485185 25.5013757,48.180577 24.6467177,49.453585 L17.9532471,44.9799805 L26,44.9799805 Z" id="Path" fill="#40C4F3"></path>
+                <path d="M18,37 C22.418278,37 26,40.581722 26,45 L18,45 L18,37 Z" id="Path" fill="#0E2D72"></path>
+                <rect id="Rectangle" fill="#0E2D72" x="12" y="23" width="4" height="6"></rect>
+                <rect id="Rectangle-Copy-11" fill="#E2231A" x="18" y="17" width="4" height="12"></rect>
+                <rect id="Rectangle-Copy-12" fill="#40C4F3" x="24" y="20" width="4" height="9"></rect>
+                <rect id="Rectangle-Copy-13" fill="#FDC01A" x="30" y="25" width="4" height="4"></rect>
+                <path d="M33,36 L57,36 C58.1045695,36 59,36.8954305 59,38 L59,63 C59,64.1045695 58.1045695,65 57,65 L31,65 L31,38 C31,36.8954305 31.8954305,36 33,36 Z" id="r" fill-opacity="0.2" fill="#484A4F"></path>
+                <rect id="r-copy" fill="#282A2E" x="33" y="32" width="28" height="40" rx="2"></rect>
+                <rect id="r-copy-2" fill="#484A4F" x="34" y="32" width="27" height="40" rx="2"></rect>
+                <rect id="Rectangle" fill="#C4C7CC" x="36" y="35" width="22" height="6"></rect>
+                <rect id="Rectangle" fill="#656D78" x="36" y="45" width="6" height="5" rx="2"></rect>
+                <rect id="Rectangle-Copy-5" fill="#656D78" x="36" y="52" width="6" height="5" rx="2"></rect>
+                <rect id="Rectangle-Copy-3" fill="#656D78" x="44" y="45" width="6" height="5" rx="2"></rect>
+                <rect id="Rectangle-Copy-6" fill="#656D78" x="44" y="52" width="6" height="5" rx="2"></rect>
+                <rect id="Rectangle-Copy-4" fill="#656D78" x="52" y="45" width="6" height="5" rx="2"></rect>
+                <rect id="Rectangle-Copy-7" fill="#656D78" x="52" y="52" width="6" height="5" rx="2"></rect>
+                <rect id="Rectangle-Copy-10" fill="#656D78" x="36" y="59" width="6" height="5" rx="2"></rect>
+                <rect id="Rectangle-Copy-9" fill="#656D78" x="44" y="59" width="6" height="5" rx="2"></rect>
+                <rect id="Rectangle-Copy-8" fill="#656D78" x="52" y="59" width="6" height="5" rx="2"></rect>
+                <path d="M18,4 L28,4 C30.7614237,4 33,6.23857625 33,9 L33,11 L13,11 L13,9 C13,6.23857625 15.2385763,4 18,4 Z" id="Rectangle-Copy-14" fill="url(#linearGradient-3)"></path>
+                <circle id="Oval" fill="#C4C7CC" cx="23" cy="4" r="4"></circle>
+                <circle id="Oval-Copy-28" fill="#FFFFFF" cx="23" cy="4" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

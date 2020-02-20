@@ -12231,6 +12231,7 @@ let cookieStatus = ''; // Sets our cookie
 $(document).ready(function () {
   document.cookie = "visitedSite";
   cookieStatus = true;
+  console.log("Cookie Status = " + cookieStatus);
 }); //Makes sure that only one checkbox can be selected at a time
 
 $('.next').prop('disabled', true);

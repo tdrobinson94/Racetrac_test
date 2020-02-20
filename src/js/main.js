@@ -7,12 +7,13 @@ let cookieStatus = '';
 $(document).ready(function() {
     document.cookie = "visitedSite";
     cookieStatus = true;
+    console.log("Cookie Status = " + cookieStatus);
 })
 
 
 //Makes sure that only one checkbox can be selected at a time
 $('.next').prop('disabled', true);
-$('.submit').prop('disabled', true)
+$('.submit').prop('disabled', true);
 $('.icon-form input').on('change',  function() {
     $('.icon-form input').not(this).prop('checked', false);
     $('.next').prop('disabled', false);
@@ -23,7 +24,7 @@ $('.payment-form input').on('change', function () {
     $('.payment-form input').not(this).prop('checked', false);
     $('.submit').prop('disabled', false);
     $('.submit').addClass('clickable');
-})
+});
 
 //Format Credit card field
 var cleave = new Cleave('.card-number', {
@@ -54,17 +55,17 @@ $('label').click(function() {
         $(this).addClass('selected');
     }
 
-})
+});
 
 //Click next
 $('.next').click(function(){
-    $('.form_1').hide()
-    $('.form_2').show()
+    $('.form_1').hide();
+    $('.form_2').show();
 
     $('.progress_1').addClass('success');
     $('.progress_1 span:first-child').replaceWith(`<span class="checkmark">✔</span>`);
     $('.progress_2').addClass('on');
-})
+});
 
 
 //Click back
@@ -75,7 +76,7 @@ $('.back').click(function () {
     $('.progress_1').removeClass('success');
     $('.progress_1 span:first-child').replaceWith(`<span class="progress_1">1</span>`);
     $('.progress_2').removeClass('on');
-})
+});
 
 //Submit form
 $('.submit').click(function() {
@@ -85,16 +86,16 @@ $('.submit').click(function() {
     $('.progress_2').removeClass('on');
     $('.progress_2 span:first-child').replaceWith(`<span class="checkmark">✔</span>`);
     $('.progress_2').addClass('success');
-})
+});
 
 //Return home
 $('.return').click(function () {
-    $('.form_2').hide()
-    $('.form_3').hide()
-    $('.form_1').show()
+    $('.form_2').hide();
+    $('.form_3').hide();
+    $('.form_1').show();
 
     $('.progress_1, .progress_2').removeClass('success');
     $('.progress_1 span:first-child').replaceWith(`<span class="progress_1">1</span>`);
     $('.progress_2 span:first-child').replaceWith(`<span class="progress_2">2</span>`);
     $('.progress_1').addClass('on');
-})
+});

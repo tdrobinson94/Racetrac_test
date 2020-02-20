@@ -55,22 +55,25 @@ html {
 
     //Check later to add separator between 1 and 2
     &:first-child {
-      font-family: Arial, Helvetica, sans-serif;
-      &:after {
-        border-bottom: 1px solid #788ab0;
+      &:before {
+        border-bottom: 1px solid #d1c6d3;
         content: "";
         position: absolute;
         top: 10px;
         left: 41px;
-        width: 87px;
+        width: 95px;
       }
+    }
+
+    & span:first-child {
+      font-family: Arial, Helvetica, sans-serif;
     }
 
     &.progress_2 {
       span:first-child {
         transition: ease-in-out all .2s;
         border: 1px solid #9097a0;
-        background-color: transparent;
+        background-color: #fff;
         color: #9097a0;
       }
       
@@ -97,7 +100,7 @@ html {
     &.success {
       span:first-child {
         transition: ease-in-out all .2s;
-        background-color: transparent;
+        background-color: #fff;
         color: green;
         border: 1px solid green;
       }
@@ -111,7 +114,7 @@ html {
   span {
     &:first-child {
       border-radius: 100%;
-      border: 1px solid black;
+      border: 1px solid #9097a0;
       padding: 10px 15px;
       font-weight: bold;
     }

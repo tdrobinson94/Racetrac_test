@@ -1,14 +1,12 @@
-let $ = require("jquery");
-let Cleave = require('cleave.js');
+const $ = require("jquery");
+const Cleave = require('cleave.js');
 
-let cookieStatus = '';
+let cookieStatus;
 
 // Sets our cookie
-$(document).ready(function() {
-    document.cookie = "visitedSite";
-    cookieStatus = true;
-    console.log("Cookie Status = " + cookieStatus);
-})
+document.cookie = "visitedSite";
+cookieStatus = true;
+console.log("Cookie Status = " + cookieStatus);
 
 
 //Makes sure that only one checkbox can be selected at a time
@@ -41,18 +39,24 @@ var cleave = new Cleave('.exp-date', {
 $('label').click(function() {
 
     $('label').removeClass('selected');
-    if ($(this).hasClass('item_1')) {
+
+    switch ($(this).hasClass('item_1')) {
+        case $(this).hasClass('item_1'):
         console.log("Item 1")
-        $(this).addClass('selected');
-    } else if ($(this).hasClass('item_2')) {
+        $(this).addClass('selected')
+        break;
+        case $(this).hasClass('item_2'):
         console.log("Item 2")
-        $(this).addClass('selected');
-    } else if ($(this).hasClass('item_3')) {
+        $(this).addClass('selected')
+        break;
+        case $(this).hasClass('item_3'):
         console.log("Item 3")
-        $(this).addClass('selected');
-    } else if ($(this).hasClass('item_4')) {
+        $(this).addClass('selected')
+        break;
+        case $(this).hasClass('item_4'):
         console.log("Item 4")
-        $(this).addClass('selected');
+        $(this).addClass('selected')
+        break;
     }
 
 });
